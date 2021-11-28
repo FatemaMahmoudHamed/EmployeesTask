@@ -1,0 +1,12 @@
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Services\bin\Debug\netcoreapp3.1\Employees.Services.deps.json
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Services\bin\Debug\netcoreapp3.1\Employees.Services.dll
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Services\bin\Debug\netcoreapp3.1\Employees.Services.pdb
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Services\bin\Debug\netcoreapp3.1\Employees.Core.dll
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Services\bin\Debug\netcoreapp3.1\Employees.Core.pdb
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Services\obj\Debug\netcoreapp3.1\Employees.Services.csprojAssemblyReference.cache
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Services\obj\Debug\netcoreapp3.1\Employees.Services.AssemblyInfoInputs.cache
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Services\obj\Debug\netcoreapp3.1\Employees.Services.AssemblyInfo.cs
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Services\obj\Debug\netcoreapp3.1\Employees.Services.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Services\obj\Debug\netcoreapp3.1\Employees.Services.csproj.CopyComplete
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Services\obj\Debug\netcoreapp3.1\Employees.Services.dll
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Services\obj\Debug\netcoreapp3.1\Employees.Services.pdb

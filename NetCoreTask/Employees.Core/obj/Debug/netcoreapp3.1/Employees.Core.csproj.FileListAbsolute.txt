@@ -1,0 +1,9 @@
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Core\bin\Debug\netcoreapp3.1\Employees.Core.deps.json
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Core\bin\Debug\netcoreapp3.1\Employees.Core.dll
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Core\bin\Debug\netcoreapp3.1\Employees.Core.pdb
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.csprojAssemblyReference.cache
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.AssemblyInfoInputs.cache
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.AssemblyInfo.cs
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.dll
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.pdb

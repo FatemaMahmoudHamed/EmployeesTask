@@ -1,0 +1,12 @@
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Infrastructure\bin\Debug\netcoreapp3.1\Employees.Core.dll
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Infrastructure\obj\Debug\netcoreapp3.1\Employees.Infrastructure.csprojAssemblyReference.cache
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Infrastructure\obj\Debug\netcoreapp3.1\Employees.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Infrastructure\obj\Debug\netcoreapp3.1\Employees.Infrastructure.AssemblyInfo.cs
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Infrastructure\bin\Debug\netcoreapp3.1\Employees.Infrastructure.deps.json
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Infrastructure\bin\Debug\netcoreapp3.1\Employees.Infrastructure.dll
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Infrastructure\bin\Debug\netcoreapp3.1\Employees.Infrastructure.pdb
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Infrastructure\bin\Debug\netcoreapp3.1\Employees.Core.pdb
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Infrastructure\obj\Debug\netcoreapp3.1\Employees.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Infrastructure\obj\Debug\netcoreapp3.1\Employees.Infrastructure.csproj.CopyComplete
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Infrastructure\obj\Debug\netcoreapp3.1\Employees.Infrastructure.dll
+C:\Users\fatma\OneDrive\Desktop\NetCoreTask\Employees.Infrastructure\obj\Debug\netcoreapp3.1\Employees.Infrastructure.pdb
